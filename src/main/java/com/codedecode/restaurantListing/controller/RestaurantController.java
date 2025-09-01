@@ -36,5 +36,6 @@ public class RestaurantController {
     {
        return restaurantService.fetchRestaurantById(id);
     }
+    
 
 }
